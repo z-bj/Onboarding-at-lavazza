@@ -15,13 +15,16 @@
 ### ➪ Read the [User story](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page)
 "For this project, you will build a tribute page for a subject of your choosing, fictional or real."
 
+
+### I'll try her an implementation of the Airbnb "Sticky-effect"
+
+<img src="https://github.com/z-bj/Onboarding-At-Lavazza/blob/master/aribnb.gif" height="250" />
+
+➪ Link to [Airbnb](https://www.airbnb.com/rooms/16805720?source_impression_id=p3_1674131168_2FI5l5JBHeNMGfDl&modal=PHOTO_TOUR_SCROLLABLE)
+
+<br>
+
 ### ➪ View the [result](https://z-bj.github.io/Onboarding-At-Lavazza)
 
-
-
-
-## Implementation of the Airbnb "Sticky-effect"
-![gif](https://github.com/z-bj/Onboarding-At-Lavazza/blob/master/aribnb.gif)
-➪ Link to [Airbnb](https://www.airbnb.com/rooms/16805720?source_impression_id=p3_1674131168_2FI5l5JBHeNMGfDl&modal=PHOTO_TOUR_SCROLLABLE)
 
 
