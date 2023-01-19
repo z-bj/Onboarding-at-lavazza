@@ -1,20 +1,14 @@
-# Certification-FCC-Build-a-Tribute-Page
+![banner]()
 
 
-Objective: Build an app that is functionally similar to https://tribute-page.freecodecamp.rocks
+## UI Designed for the Responsive Web Design Certification.
 
-User Stories:
+![freecodecamp](https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white)
+![figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![githubPages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)
 
-- Your tribute page should have an element with a corresponding id="main", which contains all other elements
-- You should see an element with an id of title, which contains a string (i.e. text), that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug")
-- You should see either a figure or a div element with an id of img-div
-- Within the #img-div element, you should see an img element with a corresponding id="image"
-- Within the #img-div element, you should see an element with a corresponding id="img-caption" that contains textual content describing the image shown in #img-div
-- You should see an element with a corresponding id="tribute-info", which contains textual content describing the subject of the tribute page
-- You should see an a element with a corresponding id="tribute-link", which links to an outside site, that contains additional information about the subject of the tribute page. HINT: You must give your element an attribute of target and set it to _blank in order for your link to open in a new tab
-Your #image should use max-width and height properties to resize responsively, relative to the width of its parent element, without exceeding its original size
-Your img element should be centered within its parent element
-Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
+### ➪ Read the [User story](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form)
+### ➪ View the [result](https://z-bj.github.io/Dont-be-a-Stranger/)
 
-Note: Be sure to add <link rel="stylesheet" href="styles.css"> in your HTML to link your stylesheet and apply your CSS# Onboarding-At-Lavazza
-# Onboarding-At-Lavazza
