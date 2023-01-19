@@ -1,4 +1,4 @@
-![banner](https://github.com/z-bj/Onboarding-At-Lavazza/blob/master/Onboarding-At-Lavazza-banner.png)
+![banner](https://github.com/z-bj/Onboarding-At-Lavazza/blob/master/Onboarding-At-Lavazza-banner.webp)
 
 ![Airbnb](https://img.shields.io/badge/Airbnb-FF5A5F.svg?style=for-the-badge&logo=Airbnb&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
