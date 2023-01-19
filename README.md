@@ -12,7 +12,7 @@
 ![buymeacoffe](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black)
 
 
-### Implementation of the Airbnb Sticky effect (very easy)
+### Implementation of the Airbnb "Sticky-effect" (very easy)
 ![Airbnb](https://img.shields.io/badge/Airbnb-FF5A5F.svg?style=for-the-badge&logo=Airbnb&logoColor=white)
 
 ### ➪ Read the [User story](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page)
