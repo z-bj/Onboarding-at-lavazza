@@ -21,6 +21,7 @@
 
 
 ## Implementation of the Airbnb "Sticky-effect"
-### ➪ View the [Original](https://www.airbnb.com/rooms/16805720?source_impression_id=p3_1674131168_2FI5l5JBHeNMGfDl&modal=PHOTO_TOUR_SCROLLABLE)
+![gif](https://github.com/z-bj/Onboarding-At-Lavazza/blob/master/aribnb.gif)
+➪ Link to [Airbnb](https://www.airbnb.com/rooms/16805720?source_impression_id=p3_1674131168_2FI5l5JBHeNMGfDl&modal=PHOTO_TOUR_SCROLLABLE)
 
 
