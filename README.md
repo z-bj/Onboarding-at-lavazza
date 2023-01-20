@@ -24,7 +24,7 @@
 
 <br>
 
-### ➪ View the [result](https://z-bj.github.io/Onboarding-At-Lavazza)
+### ➪ View the [result](https://z-bj.github.io/onboarding-at-lavazza/)
 
 
 
