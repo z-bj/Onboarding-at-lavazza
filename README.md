@@ -18,7 +18,7 @@
 
 ### I'll try her an implementation of the Airbnb "Sticky-effect"
 
-<img src="https://github.com/z-bj/Onboarding-At-Lavazza/blob/master/aribnb.gif" height="250" />
+<img src="https://github.com/z-bj/onboarding-at-lavazza/blob/master/optimized-airbnb.gif" height="250" />
 
 ➪ Link to [Airbnb](https://www.airbnb.com/rooms/16805720?source_impression_id=p3_1674131168_2FI5l5JBHeNMGfDl&modal=PHOTO_TOUR_SCROLLABLE)
 
