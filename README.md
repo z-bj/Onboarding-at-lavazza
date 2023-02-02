@@ -12,7 +12,7 @@
 
 ## UI Designed for the Responsive Web Design Certification.
 
-### ➪ Read the [User story](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page)
+### ➪ Read the [User story](https://github.com/z-bj/onboarding-at-lavazza/blob/master/User_story.md)
 "For this project, you will build a tribute page for a subject of your choosing, fictional or real."
 
 
