@@ -8,7 +8,7 @@
 
 # Onboarding at Lavazza - Dave's Story ☕ 🤖
 
-Welcome to Dave's onboarding story at "Lavazza Digital Platform Specialist". This project is a tribute page designed for the Responsive Web Design Certification, where Dave shares his experience of joining the company and getting started with his new role.
+Welcome to Dave's onboarding story at "Lavazza Digital Platform Specialist". This project is a tribute page designed for the freeCodeCamp Responsive Web Design Certification, where Dave shares his experience of joining the company and getting started with his new role.
 
 ## User Story
 
